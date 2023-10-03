@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**MarceDS07/MarceDS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MarceDS07/MarceDS07**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Actualmente estoy trabajando en un proyecto de control de ingreso 
+- Actualmente estudio la tecnicatura de redes y software
+- Como contactarme:
+        1. Mail:     Marce.de.souza.25@gmail.com
+        2. Telefono: 09604
+- En que me destaco:
+        1. FrontEnd:
+            * Html
+            * Css
+            * JavaScript 
+        2. BackEnd
+            * php
